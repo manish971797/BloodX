@@ -1,8 +1,6 @@
 # BloodX
 An standalone platform which lets donors, receivers, organizers and sponsers to merge.
 
-<br>
-Check it out <a href="https://diveshlunker.github.io/BloodX/index.html">here.</a><br>
 The website is not launched yet hence, the login signup page wont be working in case if you run it from the link above.
 Fork the project, clone then and create mysql database and see it run properly.
 <br><hr>
